@@ -4,13 +4,13 @@ Customer churn prediction is crucial for businesses because retaining existing c
 
 Key reasons it’s important:
 
-Cost Savings: Acquiring new customers can cost 5–7 times more than retaining existing ones.
+- Cost Savings: Acquiring new customers can cost 5–7 times more than retaining existing ones.
 
-Revenue Protection: Churn directly impacts revenue; losing customers means losing recurring income.
+- Revenue Protection: Churn directly impacts revenue; losing customers means losing recurring income.
 
-Business Insights: Understanding churn helps businesses uncover product or service issues, customer dissatisfaction, or market trends.
+- Business Insights: Understanding churn helps businesses uncover product or service issues, customer dissatisfaction, or market trends.
 
-Targeted Marketing: Predictive models help focus retention campaigns on the most at-risk customers, increasing ROI.
+- Targeted Marketing: Predictive models help focus retention campaigns on the most at-risk customers, increasing ROI.
 
 By integrating churn prediction into business strategies, companies can enhance customer satisfaction, boost loyalty, and ultimately improve long-term profitability.
 
