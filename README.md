@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction
+# Customer-Churn-Prediction (Tools and technology Lab Mini Project)
 
 Customer churn prediction is crucial for businesses because retaining existing customers is often more cost-effective than acquiring new ones. By accurately identifying customers who are likely to leave a service, companies can take proactive measures — such as offering discounts, improving customer service, or personalizing communication — to retain them.
 
